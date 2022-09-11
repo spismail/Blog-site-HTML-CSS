@@ -1,0 +1,165 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.hero{
+    background-image:linear-gradient(#c847f1,#380231);
+}
+.top-bar{
+    padding: 20px;
+}
+.top-bar img{
+    width: 60px;
+}
+.top-button{
+    float: right;
+
+}
+.top-button a{
+    margin: 0 8px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    background: #fff;
+    color: #333;
+    text-decoration: none !important;
+    border: 2px solid #fff;
+}
+.login-btn{
+    background: transparent !important;
+    color: #fff !important
+}
+
+.top-button a:hover{
+    background-color:#fff !important ;
+    color: #333 !important;
+    
+}
+.hero h1{
+ color: #fff;
+ font-size: 70px;
+ font-weight: bold;
+ margin-top: 12%;
+ letter-spacing: 3px;
+
+}
+.hero p{
+    color: #fff;
+
+}
+.container{
+    margin-top: 13%;
+}
+.start-btn{
+    background: transparent !important;
+    border: 2px solid #fff;
+    color: #fff;
+    width: 140px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius:50px ;
+}
+.home-img img{
+    width: 85%;
+    min-width: 350px;
+    margin-top: 10%;
+}
+.inf{
+    padding: 30px 0;
+    background: #efefef;
+}
+.inf .container{
+    margin-bottom: -200px !important;
+}
+.inf h1{
+    margin: 60px 0;
+}
+
+.person-img{
+    height: 400px;
+
+}
+.person-img img{
+    width: 100%;
+    height: 100%;
+    
+}
+.person-dtl{
+    background: #fff;
+    padding: 10px 0 1px ;
+    margin-bottom: 15px;
+}
+.profile{
+    padding: 30px 0;
+    background-image:linear-gradient(#c847f1,#380231);
+
+
+}
+.profile-card{
+    border-radius: 10px;
+    background:#fff;
+    box-shadow:0 2px 40px 0 #11277d2e ;
+    margin-bottom: -360px;
+    margin-top: 370px;
+}
+.profile-dtls{
+    padding: 40px;
+}
+.profile-dtls h2{
+    color: #c200ff;
+    margin-bottom: 35px;
+
+}
+.followers span{
+    display:inline-block;
+    color: #c200ff;
+    margin:35px 20px 35px 0;
+}
+.profile-dtls p{
+    color: #555;
+    text-align: justify;
+}
+.bom{
+    background: #c200ff;
+    border: none;
+    color: #fff;
+    width: 130px;
+    height: 40px;
+    margin-top: 50px;
+    margin-bottom: 14px;
+    border-radius:50px ;
+
+}
+.profile-img{
+    text-align: center;
+
+}
+.profile-img img{
+    width: 84%;
+    min-width: 350px;
+
+}
+.footer{
+    padding: 50px 0 20px;
+    background-image:linear-gradient(#c847f1,#380231);
+    margin-top: 450px;
+
+}
+.store-icon img{
+    width: 150px;
+    margin: 0 10px 50px;
+}
+.footer-menu a{
+ display: inline-block;
+ width: 120px;
+ color: #fff;
+ text-decoration: none !important;
+ margin-bottom: 20px;
+
+}
+.footer p{
+color: #fff;
+font-size: 14px;
+margin-top: 20px;
+}
